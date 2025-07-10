@@ -73,6 +73,7 @@ input{
 .content .content-left {
     display: block;
     width: 100%;
+    margin-left: 62px;
 }
 .content .content-left .info {
     display: flex;
